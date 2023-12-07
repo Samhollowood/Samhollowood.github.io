@@ -83,11 +83,11 @@ author:
   name             : "Samuel Hollowood"
   avatar           : "images/Profile_Pic.jpeg"
   bio              : "DPhil in Environmental Research | Environmental Geochemistry | Paleoclimate | Speleothem Research"
-  location         : "Location"
+  location         : "Oxford, UK"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           :
+  googlescholar    : "https://scholar.google.com/citations?user=nc1qY44AAAAJ&hl=en"
+  email            : "samuel.hollowood@bnc.ox.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
